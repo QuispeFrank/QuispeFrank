@@ -2,9 +2,8 @@
 <h3 align="center">full-stack developer in process</h3>
 
 
-- 🌱 I’m currently learning **C, Python, HTML5, CSS, Mysql** 
-- 👯 I’m looking to collaborate on **projects**
-- 📫 How to reach me **frankchristopherquispe@gmail.com**
+- 🌱 I’m currently learning **C, Python, HTML5, CSS, Mysql, Javascript, React, Django, Angular** 
+- 📫 How to reach me **franq.full.stack@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
