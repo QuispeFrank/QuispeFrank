@@ -2,7 +2,7 @@
 <h3 align="center">full-stack developer in process</h3>
 
 
-- 🌱 I’m currently learning **C, Python, HTML5, CSS, Mysql, Javascript, React, Django, Angular** 
+- 🌱 I’m currently learning **C, Python, HTML5, CSS, Mysql, Javascript, React, Django, Flask, Angular** 
 - 📫 How to reach me **franq.full.stack@gmail.com**
 
 
