@@ -134,4 +134,4 @@
 </p>
 </div>
 
-![Snake animation](https://github.com/quispefrank/quispefrank/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samuel-2001/samuel-2001/blob/output/github-contribution-grid-snake.svg)
