@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **C, Python, HTML5, CSS, Mysql, Javascript, React, Django, Flask, Angular** 
-- 📫 How to reach me **franq.full.stack@gmail.com**
+- 📫 How to reach me **fran.full.stack@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
